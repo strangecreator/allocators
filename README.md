@@ -1,5 +1,5 @@
 # Collection Of Allocators
-Different types of allocators in C++.
+Different types of allocators in C++
 
 Already supported:
 - Stack Allocator (with stack-storage)
